@@ -108,4 +108,3 @@ spark
   .options(Map( "table" -> "books_new", "keyspace" -> "books_ks"))
   .load
   .show
-
