@@ -1,3 +1,13 @@
+---
+page_type: sample
+languages:
+- scala
+products:
+- azure
+description: "This repository contains a set of Databricks notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark."
+urlFragment: working-with-azure-cosmos-db-cassandra-api-from-spark-on-azure-databricks
+---
+
 # Working with Azure Cosmos DB Cassandra API from Spark on Azure Databricks
 This repository contains a set of Databricks notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark. The notebooks cover:
 1.  Connecting to Azure Cosmos DB Cassandra API from Databricks
