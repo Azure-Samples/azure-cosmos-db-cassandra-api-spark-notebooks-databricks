@@ -5,7 +5,7 @@ languages:
 products:
 - azure
 description: "This repository contains a set of Databricks notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark."
-urlFragment: working-with-azure-cosmos-db-cassandra-api-from-spark-on-azure-databricks
+urlFragment: azure-cosmos-db-cassandra-api-spark-notebooks-databricks
 ---
 
 # Working with Azure Cosmos DB Cassandra API from Spark on Azure Databricks
