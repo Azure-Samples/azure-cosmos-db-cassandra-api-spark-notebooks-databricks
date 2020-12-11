@@ -18,3 +18,4 @@ This repository contains a set of Databricks notebooks that introduce working wi
 6.  Delete operations
 7.  Aggregation operations
 8.  Table copy operations
+9.  Write streaming aggregations
